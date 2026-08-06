@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "document": "operating_systems",
+        "version": "1.0.0",
+        "description": "Operating systems, hardware support, drivers, and compatibility information.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "developer": "",
+        "version": "",
+        "release_date": "",
+        "architecture_support": [],
+        "minimum_requirements": {},
+        "recommended_requirements": {},
+        "cpu_support": [],
+        "gpu_support": [],
+        "driver_support": [],
+        "filesystem_support": [],
+        "security_features": [],
+        "hardware_requirements": [],
+        "known_issues": [],
+        "end_of_support": "",
+        "sources": []
+    },
+    "data": []
+}

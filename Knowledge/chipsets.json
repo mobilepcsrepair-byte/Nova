@@ -1,0 +1,36 @@
+{
+    "metadata": {
+        "document": "chipsets",
+        "version": "1.0.0",
+        "description": "Motherboard chipset information, capabilities, and compatibility.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "socket": "",
+        "cpu_generations_supported": [],
+        "release_date": "",
+        "process_node": "",
+        "memory_support": [],
+        "memory_channels": "",
+        "pcie_support": [],
+        "pcie_lanes": {
+            "cpu": 0,
+            "chipset": 0
+        },
+        "usb_support": [],
+        "sata_support": "",
+        "nvme_support": [],
+        "overclocking_support": {
+            "cpu": false,
+            "memory": false
+        },
+        "multi_gpu_support": false,
+        "target_market": "",
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

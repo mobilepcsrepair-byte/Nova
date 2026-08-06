@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "document": "gpu_generations",
+        "version": "1.0.0",
+        "description": "GPU architectures, generations, and major technological advancements.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "architecture": "",
+        "manufacturer": "",
+        "generation_name": "",
+        "release_date": "",
+        "process_node": "",
+        "microarchitecture": "",
+        "compute_units": "",
+        "shader_architecture": "",
+        "ray_tracing_support": false,
+        "ai_acceleration": false,
+        "upscaling_technologies": [],
+        "memory_support": [],
+        "interface_support": [],
+        "major_features": [],
+        "predecessor": "",
+        "successor": "",
+        "market_segments": [],
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

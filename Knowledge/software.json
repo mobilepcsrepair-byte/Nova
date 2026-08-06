@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "document": "software",
+        "version": "1.0.0",
+        "description": "Hardware-related software, utilities, drivers, and management tools.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "developer": "",
+        "category": "",
+        "purpose": "",
+        "supported_hardware": [],
+        "supported_operating_systems": [],
+        "features": [],
+        "required_permissions": [],
+        "interface_type": "",
+        "open_source": false,
+        "license": "",
+        "release_date": "",
+        "alternatives": [],
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

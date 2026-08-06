@@ -1,0 +1,37 @@
+{
+    "metadata": {
+        "document": "ram",
+        "version": "1.0.0",
+        "description": "Memory modules, specifications, technologies, and compatibility.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "memory_type": "",
+        "generation": "",
+        "capacity": "",
+        "module_count": 0,
+        "speed": "",
+        "timings": {
+            "cas_latency": "",
+            "ras_to_cas": "",
+            "row_precharge": "",
+            "active_time": ""
+        },
+        "voltage": "",
+        "ecc_support": false,
+        "registered": false,
+        "profile_support": [],
+        "xmp_support": false,
+        "expo_support": false,
+        "rgb_support": false,
+        "heat_spreader": "",
+        "compatible_platforms": [],
+        "release_date": "",
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

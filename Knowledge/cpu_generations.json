@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        "document": "cpu_generations",
+        "version": "1.0.0",
+        "description": "CPU architectures, generations, and major technological changes.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "architecture": "",
+        "manufacturer": "",
+        "generation_name": "",
+        "release_date": "",
+        "process_node": "",
+        "socket": "",
+        "chipset_family": [],
+        "core_design": "",
+        "memory_support": [],
+        "pcie_support": [],
+        "instruction_sets": [],
+        "cache_technology": [],
+        "major_features": [],
+        "predecessor": "",
+        "successor": "",
+        "market_segment": [],
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

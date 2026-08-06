@@ -1,0 +1,26 @@
+{
+    "metadata": {
+        "document": "brand_reputation",
+        "version": "1.0.0",
+        "description": "Community consensus, reliability history, and customer support reputation.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "brand": "",
+        "category": "",
+        "overall_rating": "",
+        "build_quality": "",
+        "customer_support": "",
+        "rma_process": "",
+        "cooling_quality": "",
+        "noise_level": "",
+        "software_quality": "",
+        "community_sentiment": "",
+        "common_praise": [],
+        "common_complaints": [],
+        "historical_notes": [],
+        "sources": []
+    },
+    "data": []
+}

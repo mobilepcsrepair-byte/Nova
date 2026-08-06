@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "document": "sources",
+        "version": "1.0.0",
+        "description": "Reference sources used to verify CoreBase hardware information.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "title": "",
+        "publisher": "",
+        "source_type": "",
+        "url": "",
+        "publication_date": "",
+        "access_date": "",
+        "related_components": [],
+        "reliability_rating": "",
+        "notes": []
+    },
+    "data": []
+}

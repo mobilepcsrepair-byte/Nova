@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "document": "storage",
+        "version": "1.0.0",
+        "description": "Storage devices including SSDs, HDDs, interfaces, and performance specifications.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "storage_type": "",
+        "interface": "",
+        "form_factor": "",
+        "capacity": "",
+        "controller": "",
+        "nand_type": "",
+        "cache": "",
+        "read_speed": "",
+        "write_speed": "",
+        "random_read": "",
+        "random_write": "",
+        "endurance": "",
+        "terabytes_written": "",
+        "dram_cache": false,
+        "temperature_rating": "",
+        "software_support": [],
+        "warranty": "",
+        "release_date": "",
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

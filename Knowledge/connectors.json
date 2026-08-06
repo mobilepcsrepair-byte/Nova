@@ -1,0 +1,27 @@
+{
+    "metadata": {
+        "document": "connectors",
+        "version": "1.0.0",
+        "description": "Hardware connectors, cables, electrical specifications, and usage.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "category": "",
+        "purpose": "",
+        "used_by": [],
+        "connector_type": "",
+        "pin_count": "",
+        "voltage": "",
+        "power_delivery": "",
+        "bandwidth": "",
+        "physical_shape": "",
+        "compatibility": [],
+        "common_uses": [],
+        "versions": [],
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}
