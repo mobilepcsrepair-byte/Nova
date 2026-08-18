@@ -1,0 +1,28 @@
+{
+    "metadata": {
+        "document": "relationships",
+        "version": "1.0.0",
+        "description": "Connections between hardware components, technologies, and systems.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "source_component": {
+            "id": "",
+            "type": "",
+            "name": ""
+        },
+        "relationship_type": "",
+        "target_component": {
+            "id": "",
+            "type": "",
+            "name": ""
+        },
+        "relationship_strength": "",
+        "requirements": [],
+        "limitations": [],
+        "explanation": "",
+        "sources": []
+    },
+    "data": []
+}

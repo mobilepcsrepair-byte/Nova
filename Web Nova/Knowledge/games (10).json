@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "document": "games",
+    "version": "1.0.0",
+    "description": "Game hardware requirements, optimization features, and performance information.",
+    "schema_version": "1.0"
+  },
+  "format": {
+    "id": "",
+    "title": "",
+    "developer": "",
+    "publisher": "",
+    "release_date": "",
+    "engine": "",
+    "minimum_requirements": {
+      "cpu": "",
+      "gpu": "",
+      "ram": "",
+      "storage": ""
+    },
+    "recommended_requirements": {
+      "cpu": "",
+      "gpu": "",
+      "ram": "",
+      "storage": ""
+    },
+    "supported_features": {
+      "dlss": false,
+      "fsr": false,
+      "xess": false,
+      "ray_tracing": false,
+      "frame_generation": false
+    },
+    "vram_usage": "",
+    "cpu_demand": "",
+    "gpu_demand": "",
+    "optimization_notes": [],
+    "sources": []
+  },
+  "data": [
+    {
+      "id": "games_001",
+      "title": "Cyberpunk 2077",
+      "developer": "CD Projekt Red",
+      "publisher": "CD Projekt",
+      "release_date": "2020-12-10",
+      "engine": "REDengine 4",
+      "minimum_requirements": {
+        "cpu": "Intel Core i7-6700 or AMD Ryzen 5 1600",
+        "gpu": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB or Intel Arc A380",
+        "ram": "12 GB",
+        "storage": "70 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-12700 or AMD Ryzen 7 7800X3D",
+        "gpu": "NVIDIA GeForce RTX 2060 Super or AMD Radeon RX 5700 XT or Intel Arc A770",
+        "ram": "16 GB",
+        "storage": "70 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": true,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "6 GB minimum, 8 GB recommended for higher settings",
+      "cpu_demand": "High",
+      "gpu_demand": "Very High",
+      "optimization_notes": ["SSD strongly recommended", "Ray tracing substantially increases GPU demand", "Frame generation can improve performance on supported hardware"],
+      "sources": ["CD Projekt Red", "Steam"]
+    },
+    {
+      "id": "games_002",
+      "title": "Alan Wake 2",
+      "developer": "Remedy Entertainment",
+      "publisher": "Epic Games Publishing",
+      "release_date": "2023-10-27",
+      "engine": "Northlight",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-7600K or AMD equivalent",
+        "gpu": "NVIDIA GeForce GTX 1070 or AMD Radeon RX 5600 XT",
+        "ram": "16 GB",
+        "storage": "90 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "AMD Ryzen 7 3700X or Intel equivalent",
+        "gpu": "NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT",
+        "ram": "16 GB",
+        "storage": "90 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "8 GB or more recommended for higher settings",
+      "cpu_demand": "High",
+      "gpu_demand": "Very High",
+      "optimization_notes": ["SSD required", "Full ray tracing is extremely demanding", "Upscaling is strongly recommended on higher settings"],
+      "sources": ["Remedy Entertainment", "Epic Games"]
+    },
+    {
+      "id": "games_003",
+      "title": "Black Myth: Wukong",
+      "developer": "Game Science",
+      "publisher": "Game Science",
+      "release_date": "2024-08-20",
+      "engine": "Unreal Engine 5",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-8400 or AMD Ryzen 5 1600",
+        "gpu": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB",
+        "ram": "16 GB",
+        "storage": "130 GB"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-9700 or AMD Ryzen 5 5500",
+        "gpu": "NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 XT or Intel Arc A750",
+        "ram": "16 GB",
+        "storage": "130 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": true,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "6 GB minimum, 8 GB or more recommended",
+      "cpu_demand": "High",
+      "gpu_demand": "Very High",
+      "optimization_notes": ["SSD recommended", "Upscaling is supported across major GPU vendors", "Ray tracing significantly increases GPU demand"],
+      "sources": ["Game Science", "Steam"]
+    },
+    {
+      "id": "games_004",
+      "title": "Starfield",
+      "developer": "Bethesda Game Studios",
+      "publisher": "Bethesda Softworks",
+      "release_date": "2023-09-06",
+      "engine": "Creation Engine 2",
+      "minimum_requirements": {
+        "cpu": "Intel Core i7-6800K or AMD Ryzen 5 2600X",
+        "gpu": "NVIDIA GeForce GTX 1070 Ti or AMD Radeon RX 5700",
+        "ram": "16 GB",
+        "storage": "125 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i5-10600K or AMD Ryzen 5 3600X",
+        "gpu": "NVIDIA GeForce RTX 2080 or AMD Radeon RX 6800 XT",
+        "ram": "16 GB",
+        "storage": "125 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": false,
+        "frame_generation": true
+      },
+      "vram_usage": "8 GB or more recommended",
+      "cpu_demand": "High",
+      "gpu_demand": "High",
+      "optimization_notes": ["SSD required", "Large open-world simulation can increase CPU demand", "Upscaling can improve performance on mid-range hardware"],
+      "sources": ["Bethesda", "Steam"]
+    },
+    {
+      "id": "games_005",
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Games",
+      "publisher": "Rockstar Games",
+      "release_date": "2019-11-05",
+      "engine": "RAGE",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-2500K or AMD FX-6300",
+        "gpu": "NVIDIA GeForce GTX 770 2GB or AMD Radeon R9 280",
+        "ram": "8 GB",
+        "storage": "150 GB"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-4770K or AMD Ryzen 5 1500X",
+        "gpu": "NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 480 4GB",
+        "ram": "12 GB",
+        "storage": "150 GB"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": false,
+        "frame_generation": false
+      },
+      "vram_usage": "4 GB minimum, 6 GB recommended",
+      "cpu_demand": "Moderate",
+      "gpu_demand": "High",
+      "optimization_notes": ["Graphics settings have a large performance range", "Higher resolutions increase GPU demand significantly"],
+      "sources": ["Rockstar Games", "Steam"]
+    },
+    {
+      "id": "games_006",
+      "title": "Hogwarts Legacy",
+      "developer": "Avalanche Software",
+      "publisher": "Warner Bros. Games",
+      "release_date": "2023-02-10",
+      "engine": "Unreal Engine 4",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-6600 or AMD Ryzen 5 1400",
+        "gpu": "NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB",
+        "ram": "16 GB",
+        "storage": "85 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-8700 or AMD Ryzen 5 3600",
+        "gpu": "NVIDIA GeForce GTX 1080 Ti or AMD Radeon RX 5700 XT",
+        "ram": "16 GB",
+        "storage": "85 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": true,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "4 GB minimum, 8 GB recommended",
+      "cpu_demand": "Moderate",
+      "gpu_demand": "High",
+      "optimization_notes": ["SSD improves asset streaming", "Ray tracing increases GPU requirements considerably", "16 GB RAM is recommended"],
+      "sources": ["Warner Bros. Games", "Steam"]
+    },
+    {
+      "id": "games_007",
+      "title": "Forza Horizon 5",
+      "developer": "Playground Games",
+      "publisher": "Xbox Game Studios",
+      "release_date": "2021-11-09",
+      "engine": "ForzaTech",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+        "gpu": "NVIDIA GeForce GTX 970 or AMD Radeon RX 470",
+        "ram": "8 GB",
+        "storage": "110 GB"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i5-8400 or AMD Ryzen 5 1500X",
+        "gpu": "NVIDIA GeForce GTX 1070 or AMD Radeon RX 590",
+        "ram": "16 GB",
+        "storage": "110 GB"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": true,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "4 GB minimum, 8 GB recommended",
+      "cpu_demand": "Moderate",
+      "gpu_demand": "High",
+      "optimization_notes": ["Wide range of graphics presets", "Ray tracing is mainly used in specific modes", "Upscaling can improve high-resolution performance"],
+      "sources": ["Xbox", "Steam"]
+    },
+    {
+      "id": "games_008",
+      "title": "Baldur's Gate 3",
+      "developer": "Larian Studios",
+      "publisher": "Larian Studios",
+      "release_date": "2023-08-03",
+      "engine": "Divinity 4.0",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-4690 or AMD FX 8350",
+        "gpu": "NVIDIA GeForce GTX 970 or AMD Radeon RX 480",
+        "ram": "8 GB",
+        "storage": "150 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-8700K or AMD Ryzen 5 3600",
+        "gpu": "NVIDIA GeForce RTX 2060 Super or AMD Radeon RX 5700 XT",
+        "ram": "16 GB",
+        "storage": "150 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": false,
+        "frame_generation": false
+      },
+      "vram_usage": "4 GB minimum, 8 GB recommended",
+      "cpu_demand": "Moderate to High",
+      "gpu_demand": "Moderate to High",
+      "optimization_notes": ["CPU demand can increase in dense late-game areas", "SSD required", "Upscaling can help at higher resolutions"],
+      "sources": ["Larian Studios", "Steam"]
+    },
+    {
+      "id": "games_009",
+      "title": "Microsoft Flight Simulator",
+      "developer": "Asobo Studio",
+      "publisher": "Xbox Game Studios",
+      "release_date": "2020-08-18",
+      "engine": "Asobo Engine",
+      "minimum_requirements": {
+        "cpu": "Intel Core i5-4460 or AMD Ryzen 3 1200",
+        "gpu": "NVIDIA GeForce GTX 770 or AMD Radeon RX 570",
+        "ram": "8 GB",
+        "storage": "150 GB"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i5-8400 or AMD Ryzen 5 1500X",
+        "gpu": "NVIDIA GeForce GTX 970 or AMD Radeon RX 590",
+        "ram": "16 GB",
+        "storage": "150 GB"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": true,
+        "frame_generation": true
+      },
+      "vram_usage": "4 GB minimum, 8 GB or more recommended",
+      "cpu_demand": "Very High",
+      "gpu_demand": "High",
+      "optimization_notes": ["CPU performance is especially important in dense locations", "Fast storage and sufficient RAM improve streaming behavior", "Frame generation can significantly increase perceived frame rate"],
+      "sources": ["Microsoft", "Xbox", "Steam"]
+    },
+    {
+      "id": "games_010",
+      "title": "The Last of Us Part I",
+      "developer": "Naughty Dog",
+      "publisher": "PlayStation Publishing LLC",
+      "release_date": "2023-03-28",
+      "engine": "Naughty Dog engine",
+      "minimum_requirements": {
+        "cpu": "Intel Core i7-4770K or AMD Ryzen 5 1500X",
+        "gpu": "NVIDIA GeForce GTX 970 or AMD Radeon RX 470",
+        "ram": "16 GB",
+        "storage": "100 GB SSD"
+      },
+      "recommended_requirements": {
+        "cpu": "Intel Core i7-8700 or AMD Ryzen 5 3600X",
+        "gpu": "NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6600 XT",
+        "ram": "16 GB",
+        "storage": "100 GB SSD"
+      },
+      "supported_features": {
+        "dlss": true,
+        "fsr": true,
+        "xess": false,
+        "ray_tracing": false,
+        "frame_generation": false
+      },
+      "vram_usage": "8 GB recommended for higher presets",
+      "cpu_demand": "High",
+      "gpu_demand": "High",
+      "optimization_notes": ["SSD required", "Shader compilation can affect initial loading", "Higher presets can require substantial VRAM"],
+      "sources": ["PlayStation", "Steam"]
+    }
+  ]
+}

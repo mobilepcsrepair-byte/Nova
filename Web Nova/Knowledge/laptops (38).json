@@ -1,0 +1,2063 @@
+{
+  "metadata": {
+    "document": "laptops",
+    "version": "1.0.0",
+    "description": "Laptop computers including gaming, workstation, and professional systems.",
+    "schema_version": "1.0"
+  },
+  "format": {
+    "id": "",
+    "name": "",
+    "manufacturer": "",
+    "category": "",
+    "release_date": "",
+    "cpu": "",
+    "gpu": "",
+    "gpu_power_limit": "",
+    "ram": {
+      "capacity": "",
+      "type": "",
+      "upgradeable": false
+    },
+    "storage": [],
+    "display": {
+      "size": "",
+      "resolution": "",
+      "refresh_rate": "",
+      "panel_type": ""
+    },
+    "battery": "",
+    "cooling_system": "",
+    "ports": [],
+    "wireless": [],
+    "weight": "",
+    "dimensions": {},
+    "operating_system": "",
+    "upgrade_options": [],
+    "target_user": [],
+    "notes": [],
+    "sources": []
+  },
+  "data": [
+    {
+      "id": "laptops_001",
+      "name": "ROG Strix SCAR 18",
+      "manufacturer": "ASUS",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra HX-series",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "Up to 175W",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "18-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "Mini LED"
+      },
+      "battery": "90Wh",
+      "cooling_system": "Vapor chamber and multi-fan",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI 2.1",
+        "RJ45",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 3.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Enthusiast"
+      ],
+      "notes": [
+        "Large flagship gaming chassis."
+      ],
+      "sources": [
+        "ASUS"
+      ]
+    },
+    {
+      "id": "laptops_002",
+      "name": "ROG Zephyrus G16",
+      "manufacturer": "ASUS",
+      "category": "Gaming / Creator",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "GeForce RTX 5070 Ti / 5080 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "90Wh",
+      "cooling_system": "Vapor chamber and multi-fan",
+      "ports": [
+        "Thunderbolt",
+        "USB-C",
+        "USB-A",
+        "HDMI 2.1"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.9 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Creator",
+        "Portable"
+      ],
+      "notes": [
+        "Thin premium gaming laptop."
+      ],
+      "sources": [
+        "ASUS"
+      ]
+    },
+    {
+      "id": "laptops_003",
+      "name": "TUF Gaming A16",
+      "manufacturer": "ASUS",
+      "category": "Gaming / Value",
+      "release_date": "2025",
+      "cpu": "AMD Ryzen AI mobile processor",
+      "gpu": "GeForce RTX 5060 / 5070 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "165Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "90Wh",
+      "cooling_system": "Dual-fan cooling",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6E/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.2 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Student"
+      ],
+      "notes": [
+        "Value-oriented gaming system."
+      ],
+      "sources": [
+        "ASUS"
+      ]
+    },
+    {
+      "id": "laptops_004",
+      "name": "Legion Pro 7i Gen 10",
+      "manufacturer": "Lenovo",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra 9 275HX",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "Up to 175W class",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "99.9Wh",
+      "cooling_system": "Legion Coldfront cooling",
+      "ports": [
+        "Thunderbolt",
+        "USB-C",
+        "USB-A",
+        "HDMI 2.1",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.6 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Creator",
+        "Enthusiast"
+      ],
+      "notes": [
+        "High-power Legion flagship."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_005",
+      "name": "Legion Pro 5i Gen 10",
+      "manufacturer": "Lenovo",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra HX-series",
+      "gpu": "GeForce RTX 5060 / 5070 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "80Wh class",
+      "cooling_system": "Coldfront cooling",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.4 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Student"
+      ],
+      "notes": [
+        "Performance gaming line below Pro 7i."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_006",
+      "name": "LOQ 15",
+      "manufacturer": "Lenovo",
+      "category": "Gaming / Value",
+      "release_date": "2025",
+      "cpu": "Intel Core / AMD Ryzen",
+      "gpu": "GeForce RTX 5050 / 5060 / 5070 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "8GB-32GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "15.6-inch",
+        "resolution": "1920 x 1080 / 1920 x 1200",
+        "refresh_rate": "144Hz-165Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "60-80Wh class",
+      "cooling_system": "Dual-fan cooling",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.4 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Budget gaming",
+        "Student"
+      ],
+      "notes": [
+        "Entry gaming line."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_007",
+      "name": "ThinkPad P1 Gen 7",
+      "manufacturer": "Lenovo",
+      "category": "Workstation",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "NVIDIA RTX Ada Generation Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "Up to 64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600 / 3840 x 2400",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "90Wh class",
+      "cooling_system": "Dual-fan workstation cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.8 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro / Linux options",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Engineering",
+        "Developer",
+        "Professional"
+      ],
+      "notes": [
+        "Thin workstation with professional GPU options."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_008",
+      "name": "ThinkPad T14 Gen 6",
+      "manufacturer": "Lenovo",
+      "category": "Business",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra / AMD Ryzen PRO",
+      "gpu": "Integrated Intel Arc / Radeon graphics",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "Up to 64GB",
+        "type": "DDR5 / LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "1920 x 1200",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "50Wh class",
+      "cooling_system": "Business cooling",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6E/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.3 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Enterprise",
+        "Student"
+      ],
+      "notes": [
+        "Enterprise-focused ThinkPad."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_009",
+      "name": "ThinkPad X1 Carbon Gen 13",
+      "manufacturer": "Lenovo",
+      "category": "Business / Premium",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra mobile processor",
+      "gpu": "Integrated Intel Arc graphics",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "1920 x 1200 / 2880 x 1800",
+        "refresh_rate": "60Hz-120Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "57Wh class",
+      "cooling_system": "Compact thermal system",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Professional",
+        "Travel"
+      ],
+      "notes": [
+        "Very lightweight business notebook."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_010",
+      "name": "ThinkPad P16 Gen 2",
+      "manufacturer": "Lenovo",
+      "category": "Mobile Workstation",
+      "release_date": "2024",
+      "cpu": "Intel Core HX / Xeon workstation options",
+      "gpu": "NVIDIA RTX Ada Generation Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "32GB-128GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "1920 x 1200 / 3840 x 2400",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "94Wh class",
+      "cooling_system": "Large workstation cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.9 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro / Linux options",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Engineering",
+        "CAD",
+        "Professional"
+      ],
+      "notes": [
+        "Large expandable workstation."
+      ],
+      "sources": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "laptops_011",
+      "name": "Alienware Area-51 18",
+      "manufacturer": "Dell",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra 9 275HX",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "Up to 175W",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "18-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "96Wh class",
+      "cooling_system": "Vapor chamber and multi-fan",
+      "ports": [
+        "Thunderbolt",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 3.5 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Enthusiast",
+        "Desktop replacement"
+      ],
+      "notes": [
+        "Large Alienware flagship."
+      ],
+      "sources": [
+        "Dell Alienware"
+      ]
+    },
+    {
+      "id": "laptops_012",
+      "name": "Alienware m16 R2",
+      "manufacturer": "Dell",
+      "category": "Gaming",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "GeForce RTX 4050 / 4060 / 4070 Laptop GPU",
+      "gpu_power_limit": "Up to 140W class",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "90Wh class",
+      "cooling_system": "Cryo-tech cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.5 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Creator"
+      ],
+      "notes": [
+        "More portable Alienware gaming chassis."
+      ],
+      "sources": [
+        "Dell"
+      ]
+    },
+    {
+      "id": "laptops_013",
+      "name": "XPS 16",
+      "manufacturer": "Dell",
+      "category": "Premium / Creator",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "GeForce RTX 4050 / 4060 / 4070 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "16.3-inch",
+        "resolution": "3840 x 2400 / 1920 x 1200",
+        "refresh_rate": "60Hz",
+        "panel_type": "OLED/IPS"
+      },
+      "battery": "99.5Wh class",
+      "cooling_system": "Dual-fan cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "HDMI",
+        "microSD"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.1 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Creator",
+        "Professional"
+      ],
+      "notes": [
+        "Premium minimalist Windows laptop."
+      ],
+      "sources": [
+        "Dell"
+      ]
+    },
+    {
+      "id": "laptops_014",
+      "name": "Precision 5690",
+      "manufacturer": "Dell",
+      "category": "Mobile Workstation",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "NVIDIA RTX Ada Generation Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "1920 x 1200 / 3840 x 2400",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "99.5Wh class",
+      "cooling_system": "Workstation cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "HDMI",
+        "microSD"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Engineer",
+        "CAD",
+        "Professional"
+      ],
+      "notes": [
+        "Thin Precision workstation."
+      ],
+      "sources": [
+        "Dell"
+      ]
+    },
+    {
+      "id": "laptops_015",
+      "name": "Latitude 7450",
+      "manufacturer": "Dell",
+      "category": "Business",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra mobile processor",
+      "gpu": "Integrated Intel graphics",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X / DDR5",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "1920 x 1200",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "54Wh class",
+      "cooling_system": "Business cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6E/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.4 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Enterprise"
+      ],
+      "notes": [
+        "Enterprise Latitude."
+      ],
+      "sources": [
+        "Dell"
+      ]
+    },
+    {
+      "id": "laptops_016",
+      "name": "OMEN MAX 16",
+      "manufacturer": "HP",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "AMD Ryzen AI 9 HX 375",
+      "gpu": "GeForce RTX 5080 Laptop GPU",
+      "gpu_power_limit": "High-performance mode",
+      "ram": {
+        "capacity": "Up to 64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "83Wh class",
+      "cooling_system": "High-performance multi-fan",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.5 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Power user"
+      ],
+      "notes": [
+        "Top-end HP gaming configuration."
+      ],
+      "sources": [
+        "HP"
+      ]
+    },
+    {
+      "id": "laptops_017",
+      "name": "ZBook Fury 16 G11",
+      "manufacturer": "HP",
+      "category": "Mobile Workstation",
+      "release_date": "2024",
+      "cpu": "Intel Core HX-series",
+      "gpu": "NVIDIA RTX 1000-5000 Ada Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-128GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2",
+        "SATA options"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "1920 x 1200 / 3840 x 2400",
+        "refresh_rate": "60Hz-120Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "99Wh class",
+      "cooling_system": "Workstation cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI 2.1",
+        "RJ45",
+        "SD"
+      ],
+      "wireless": [
+        "Wi-Fi 6E/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.4 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "4x SO-DIMM",
+        "Multiple M.2"
+      ],
+      "target_user": [
+        "Engineering",
+        "CAD",
+        "3D",
+        "Professional"
+      ],
+      "notes": [
+        "High-memory professional workstation."
+      ],
+      "sources": [
+        "HP"
+      ]
+    },
+    {
+      "id": "laptops_018",
+      "name": "ZBook Power 16 G11",
+      "manufacturer": "HP",
+      "category": "Mobile Workstation",
+      "release_date": "2024",
+      "cpu": "Intel Core HX-series",
+      "gpu": "NVIDIA RTX 1000 / 2000 Ada Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "1920 x 1200 / 2560 x 1600",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "83Wh class",
+      "cooling_system": "Dual-fan workstation cooling",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Engineering",
+        "CAD",
+        "Business workstation"
+      ],
+      "notes": [
+        "More cost-conscious ZBook."
+      ],
+      "sources": [
+        "HP"
+      ]
+    },
+    {
+      "id": "laptops_019",
+      "name": "Spectre x360 16",
+      "manufacturer": "HP",
+      "category": "Premium 2-in-1",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra mobile processor",
+      "gpu": "Integrated Intel Arc / discrete GPU options",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2880 x 1800",
+        "refresh_rate": "120Hz",
+        "panel_type": "OLED touchscreen"
+      },
+      "battery": "83Wh class",
+      "cooling_system": "Dual-fan compact cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Creator",
+        "Student",
+        "Professional"
+      ],
+      "notes": [
+        "Convertible premium notebook."
+      ],
+      "sources": [
+        "HP"
+      ]
+    },
+    {
+      "id": "laptops_020",
+      "name": "EliteBook Ultra G1i",
+      "manufacturer": "HP",
+      "category": "Business / Premium",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra mobile processor",
+      "gpu": "Integrated Intel Arc graphics",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "2880 x 1800",
+        "refresh_rate": "120Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "59Wh class",
+      "cooling_system": "Compact business cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-C",
+        "USB-A"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.3 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Executive",
+        "Travel"
+      ],
+      "notes": [
+        "Premium EliteBook."
+      ],
+      "sources": [
+        "HP"
+      ]
+    },
+    {
+      "id": "laptops_021",
+      "name": "Predator Helios 18 AI",
+      "manufacturer": "Acer",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra HX-series",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "High-power configuration",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "18-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "Mini LED/IPS"
+      },
+      "battery": "99Wh class",
+      "cooling_system": "Liquid-metal and multi-fan",
+      "ports": [
+        "Thunderbolt",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 3.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "2x SO-DIMM",
+        "2x M.2"
+      ],
+      "target_user": [
+        "Gaming",
+        "Enthusiast"
+      ],
+      "notes": [
+        "Large Predator gaming platform."
+      ],
+      "sources": [
+        "Acer"
+      ]
+    },
+    {
+      "id": "laptops_022",
+      "name": "Nitro V 15",
+      "manufacturer": "Acer",
+      "category": "Gaming / Value",
+      "release_date": "2025",
+      "cpu": "Intel Core / AMD Ryzen",
+      "gpu": "GeForce RTX 4050 / 4060 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "8GB-32GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "15.6-inch",
+        "resolution": "1920 x 1080 / 1920 x 1200",
+        "refresh_rate": "144Hz-165Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "57Wh class",
+      "cooling_system": "Dual-fan",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.1 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Budget gaming",
+        "Student"
+      ],
+      "notes": [
+        "Entry gaming line."
+      ],
+      "sources": [
+        "Acer"
+      ]
+    },
+    {
+      "id": "laptops_023",
+      "name": "Swift X 14",
+      "manufacturer": "Acer",
+      "category": "Creator / Portable",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "GeForce RTX 4050 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14.5-inch",
+        "resolution": "2880 x 1800",
+        "refresh_rate": "120Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "76Wh class",
+      "cooling_system": "Dual-fan compact cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "microSD"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.5 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Creator",
+        "Student",
+        "Portable workstation"
+      ],
+      "notes": [
+        "Portable creator laptop."
+      ],
+      "sources": [
+        "Acer"
+      ]
+    },
+    {
+      "id": "laptops_024",
+      "name": "TravelMate P6 14",
+      "manufacturer": "Acer",
+      "category": "Business",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra",
+      "gpu": "Integrated Intel Arc",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "1920 x 1200",
+        "refresh_rate": "60Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "65Wh class",
+      "cooling_system": "Compact business cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.2 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Enterprise",
+        "Travel"
+      ],
+      "notes": [
+        "Enterprise Acer notebook."
+      ],
+      "sources": [
+        "Acer"
+      ]
+    },
+    {
+      "id": "laptops_025",
+      "name": "Titan 18 HX AI",
+      "manufacturer": "MSI",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra 9 285HX",
+      "gpu": "GeForce RTX 5090 Laptop GPU",
+      "gpu_power_limit": "Up to 175W",
+      "ram": {
+        "capacity": "64GB-96GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "2x PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "18-inch",
+        "resolution": "3840 x 2400",
+        "refresh_rate": "120Hz",
+        "panel_type": "Mini LED"
+      },
+      "battery": "99.9Wh",
+      "cooling_system": "Vapor chamber and multiple fans",
+      "ports": [
+        "Thunderbolt 5",
+        "USB-A",
+        "HDMI 2.1",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 3.6 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 Pro",
+      "upgrade_options": [
+        "2x SO-DIMM",
+        "2x M.2"
+      ],
+      "target_user": [
+        "Gaming",
+        "Enthusiast",
+        "Desktop replacement"
+      ],
+      "notes": [
+        "MSI flagship gaming notebook."
+      ],
+      "sources": [
+        "MSI"
+      ]
+    },
+    {
+      "id": "laptops_026",
+      "name": "Raider 18 HX AI",
+      "manufacturer": "MSI",
+      "category": "Gaming",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra 9 285HX",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "High-power configuration",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "18-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "Mini LED"
+      },
+      "battery": "99.9Wh",
+      "cooling_system": "Vapor chamber and multi-fan",
+      "ports": [
+        "Thunderbolt",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 3.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "2x SO-DIMM",
+        "2x M.2"
+      ],
+      "target_user": [
+        "Gaming",
+        "Enthusiast"
+      ],
+      "notes": [
+        "High-end Raider line."
+      ],
+      "sources": [
+        "MSI"
+      ]
+    },
+    {
+      "id": "laptops_027",
+      "name": "Creator Z16",
+      "manufacturer": "MSI",
+      "category": "Creator",
+      "release_date": "2024",
+      "cpu": "Intel Core Ultra H-series",
+      "gpu": "GeForce RTX 4060 Laptop GPU",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "120Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "90Wh class",
+      "cooling_system": "Dual-fan creator cooling",
+      "ports": [
+        "Thunderbolt 4",
+        "USB-A",
+        "HDMI",
+        "SD"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Creator",
+        "Designer",
+        "Video editor"
+      ],
+      "notes": [
+        "Creator-focused MSI laptop."
+      ],
+      "sources": [
+        "MSI"
+      ]
+    },
+    {
+      "id": "laptops_028",
+      "name": "Cyborg 15",
+      "manufacturer": "MSI",
+      "category": "Gaming / Value",
+      "release_date": "2025",
+      "cpu": "Intel Core / AMD Ryzen",
+      "gpu": "GeForce RTX 4050 / 4060",
+      "gpu_power_limit": "Configuration dependent",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "15.6-inch",
+        "resolution": "1920 x 1080",
+        "refresh_rate": "144Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "65Wh class",
+      "cooling_system": "Dual-fan",
+      "ports": [
+        "USB-C",
+        "USB-A",
+        "HDMI",
+        "RJ45"
+      ],
+      "wireless": [
+        "Wi-Fi 6",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.0 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Budget gaming",
+        "Student"
+      ],
+      "notes": [
+        "Entry MSI gaming line."
+      ],
+      "sources": [
+        "MSI"
+      ]
+    },
+    {
+      "id": "laptops_029",
+      "name": "Blade 16",
+      "manufacturer": "Razer",
+      "category": "Gaming / Creator",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra 9 275HX",
+      "gpu": "GeForce RTX 5070 Ti / 5080 / 5090 Laptop GPU",
+      "gpu_power_limit": "Up to 175W",
+      "ram": {
+        "capacity": "32GB-64GB",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600 / 3840 x 2400",
+        "refresh_rate": "240Hz / 120Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "95.2Wh",
+      "cooling_system": "Vapor chamber and multi-fan",
+      "ports": [
+        "Thunderbolt 5",
+        "USB-A",
+        "HDMI 2.1",
+        "SD"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.1 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SO-DIMM",
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Gaming",
+        "Creator",
+        "Professional"
+      ],
+      "notes": [
+        "Premium aluminum chassis."
+      ],
+      "sources": [
+        "Razer"
+      ]
+    },
+    {
+      "id": "laptops_030",
+      "name": "Blade 14",
+      "manufacturer": "Razer",
+      "category": "Gaming / Portable",
+      "release_date": "2025",
+      "cpu": "AMD Ryzen AI 9 HX 370",
+      "gpu": "GeForce RTX 5070 Laptop GPU",
+      "gpu_power_limit": "Up to 115W class",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "240Hz",
+        "panel_type": "IPS/OLED"
+      },
+      "battery": "68.1Wh",
+      "cooling_system": "Compact vapor chamber",
+      "ports": [
+        "USB4",
+        "USB-A",
+        "HDMI 2.1"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.9 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "M.2 SSD"
+      ],
+      "target_user": [
+        "Portable gaming",
+        "Creator"
+      ],
+      "notes": [
+        "Compact high-end gaming system."
+      ],
+      "sources": [
+        "Razer"
+      ]
+    },
+    {
+      "id": "laptops_031",
+      "name": "MacBook Pro 16-inch",
+      "manufacturer": "Apple",
+      "category": "Professional / Creator",
+      "release_date": "2024-2025",
+      "cpu": "Apple M4 Pro / M4 Max",
+      "gpu": "Integrated Apple GPU",
+      "gpu_power_limit": "Integrated SoC",
+      "ram": {
+        "capacity": "24GB-128GB",
+        "type": "Unified Memory",
+        "upgradeable": false
+      },
+      "storage": [
+        "Internal PCIe SSD"
+      ],
+      "display": {
+        "size": "16.2-inch",
+        "resolution": "3456 x 2234",
+        "refresh_rate": "120Hz",
+        "panel_type": "Liquid Retina XDR Mini LED"
+      },
+      "battery": "100Wh class",
+      "cooling_system": "Active thermal system",
+      "ports": [
+        "Thunderbolt 5",
+        "HDMI",
+        "SDXC",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.1 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "macOS",
+      "upgrade_options": [
+        "Storage factory configured"
+      ],
+      "target_user": [
+        "Creator",
+        "Developer",
+        "Professional",
+        "Video editor"
+      ],
+      "notes": [
+        "High-end Apple silicon workstation notebook."
+      ],
+      "sources": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "laptops_032",
+      "name": "MacBook Pro 14-inch",
+      "manufacturer": "Apple",
+      "category": "Professional / Creator",
+      "release_date": "2024-2025",
+      "cpu": "Apple M4 / M4 Pro / M4 Max",
+      "gpu": "Integrated Apple GPU",
+      "gpu_power_limit": "Integrated SoC",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "Unified Memory",
+        "upgradeable": false
+      },
+      "storage": [
+        "Internal PCIe SSD"
+      ],
+      "display": {
+        "size": "14.2-inch",
+        "resolution": "3024 x 1964",
+        "refresh_rate": "120Hz",
+        "panel_type": "Liquid Retina XDR Mini LED"
+      },
+      "battery": "72.4Wh class",
+      "cooling_system": "Active thermal system",
+      "ports": [
+        "Thunderbolt 4/5",
+        "HDMI",
+        "SDXC",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.6 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "macOS",
+      "upgrade_options": [
+        "Storage factory configured"
+      ],
+      "target_user": [
+        "Developer",
+        "Creator",
+        "Professional"
+      ],
+      "notes": [
+        "Smaller professional MacBook Pro."
+      ],
+      "sources": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "laptops_033",
+      "name": "MacBook Air 15-inch",
+      "manufacturer": "Apple",
+      "category": "Ultraportable",
+      "release_date": "2025",
+      "cpu": "Apple M4",
+      "gpu": "Integrated Apple GPU",
+      "gpu_power_limit": "Integrated SoC",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "Unified Memory",
+        "upgradeable": false
+      },
+      "storage": [
+        "Internal PCIe SSD"
+      ],
+      "display": {
+        "size": "15.3-inch",
+        "resolution": "2880 x 1864",
+        "refresh_rate": "60Hz",
+        "panel_type": "Liquid Retina IPS"
+      },
+      "battery": "66.5Wh class",
+      "cooling_system": "Fanless",
+      "ports": [
+        "Thunderbolt 4",
+        "MagSafe",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.5 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "macOS",
+      "upgrade_options": [
+        "Storage factory configured"
+      ],
+      "target_user": [
+        "Student",
+        "Developer",
+        "Travel"
+      ],
+      "notes": [
+        "Fanless large-screen ultraportable."
+      ],
+      "sources": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "laptops_034",
+      "name": "MacBook Air 13-inch",
+      "manufacturer": "Apple",
+      "category": "Ultraportable",
+      "release_date": "2025",
+      "cpu": "Apple M4",
+      "gpu": "Integrated Apple GPU",
+      "gpu_power_limit": "Integrated SoC",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "Unified Memory",
+        "upgradeable": false
+      },
+      "storage": [
+        "Internal PCIe SSD"
+      ],
+      "display": {
+        "size": "13.6-inch",
+        "resolution": "2560 x 1664",
+        "refresh_rate": "60Hz",
+        "panel_type": "Liquid Retina IPS"
+      },
+      "battery": "53.8Wh class",
+      "cooling_system": "Fanless",
+      "ports": [
+        "Thunderbolt 4",
+        "MagSafe",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.24 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "macOS",
+      "upgrade_options": [
+        "Storage factory configured"
+      ],
+      "target_user": [
+        "Student",
+        "Developer",
+        "Travel"
+      ],
+      "notes": [
+        "Compact fanless laptop."
+      ],
+      "sources": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "laptops_035",
+      "name": "Surface Laptop 15",
+      "manufacturer": "Microsoft",
+      "category": "Premium / Business",
+      "release_date": "2024",
+      "cpu": "Snapdragon X Elite / X Plus",
+      "gpu": "Integrated Adreno GPU",
+      "gpu_power_limit": "Integrated SoC",
+      "ram": {
+        "capacity": "16GB-64GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "15-inch",
+        "resolution": "2496 x 1664",
+        "refresh_rate": "120Hz",
+        "panel_type": "PixelSense touchscreen"
+      },
+      "battery": "66Wh class",
+      "cooling_system": "Compact cooling",
+      "ports": [
+        "USB4",
+        "USB-A",
+        "3.5mm"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.66 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Student",
+        "Travel"
+      ],
+      "notes": [
+        "ARM-based Windows laptop."
+      ],
+      "sources": [
+        "Microsoft"
+      ]
+    },
+    {
+      "id": "laptops_036",
+      "name": "Framework Laptop 16",
+      "manufacturer": "Framework",
+      "category": "Modular",
+      "release_date": "2024",
+      "cpu": "AMD Ryzen 7 7840HS-class",
+      "gpu": "Radeon 780M / Radeon RX 7700S expansion module",
+      "gpu_power_limit": "Module dependent",
+      "ram": {
+        "capacity": "16GB-64GB+",
+        "type": "DDR5 SO-DIMM",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "16-inch",
+        "resolution": "2560 x 1600",
+        "refresh_rate": "165Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "85Wh class",
+      "cooling_system": "Dual-fan modular cooling",
+      "ports": [
+        "Expansion Card system",
+        "USB-C",
+        "HDMI via module"
+      ],
+      "wireless": [
+        "Wi-Fi 6E",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 2.1 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 / Linux",
+      "upgrade_options": [
+        "RAM",
+        "SSD",
+        "GPU module",
+        "Expansion modules"
+      ],
+      "target_user": [
+        "DIY user",
+        "Developer",
+        "Repair enthusiast"
+      ],
+      "notes": [
+        "Designed for modularity and repairability."
+      ],
+      "sources": [
+        "Framework"
+      ]
+    },
+    {
+      "id": "laptops_037",
+      "name": "Framework Laptop 13",
+      "manufacturer": "Framework",
+      "category": "Modular / Ultraportable",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra / AMD Ryzen AI",
+      "gpu": "Integrated Intel Arc / Radeon graphics",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-64GB+",
+        "type": "DDR5 / LPDDR5X",
+        "upgradeable": true
+      },
+      "storage": [
+        "PCIe NVMe M.2"
+      ],
+      "display": {
+        "size": "13.5-inch",
+        "resolution": "2256 x 1504",
+        "refresh_rate": "120Hz",
+        "panel_type": "IPS"
+      },
+      "battery": "61Wh class",
+      "cooling_system": "Compact dual-fan",
+      "ports": [
+        "Expansion Card system",
+        "USB-C",
+        "USB-A",
+        "HDMI via module"
+      ],
+      "wireless": [
+        "Wi-Fi 6E/7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.3 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11 / Linux",
+      "upgrade_options": [
+        "RAM",
+        "SSD",
+        "Wireless card",
+        "Expansion modules"
+      ],
+      "target_user": [
+        "Developer",
+        "Student",
+        "DIY user"
+      ],
+      "notes": [
+        "Highly repairable modular notebook."
+      ],
+      "sources": [
+        "Framework"
+      ]
+    },
+    {
+      "id": "laptops_038",
+      "name": "Zenbook S 14",
+      "manufacturer": "ASUS",
+      "category": "Premium / Ultraportable",
+      "release_date": "2025",
+      "cpu": "Intel Core Ultra mobile processor",
+      "gpu": "Integrated Intel Arc",
+      "gpu_power_limit": "Integrated",
+      "ram": {
+        "capacity": "16GB-32GB",
+        "type": "LPDDR5X",
+        "upgradeable": false
+      },
+      "storage": [
+        "PCIe NVMe SSD"
+      ],
+      "display": {
+        "size": "14-inch",
+        "resolution": "2880 x 1800",
+        "refresh_rate": "120Hz",
+        "panel_type": "OLED"
+      },
+      "battery": "72Wh class",
+      "cooling_system": "Dual-fan compact cooling",
+      "ports": [
+        "USB4",
+        "USB-A",
+        "HDMI"
+      ],
+      "wireless": [
+        "Wi-Fi 7",
+        "Bluetooth"
+      ],
+      "weight": "Approx. 1.2 kg",
+      "dimensions": "Configuration dependent",
+      "operating_system": "Windows 11",
+      "upgrade_options": [
+        "SSD serviceability varies"
+      ],
+      "target_user": [
+        "Business",
+        "Travel",
+        "Student"
+      ],
+      "notes": [
+        "Thin premium OLED notebook."
+      ],
+      "sources": [
+        "ASUS"
+      ]
+    }
+  ]
+}

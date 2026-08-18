@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "document": "gpus",
+        "version": "1.0.0",
+        "description": "Individual graphics processors and graphics cards with technical specifications.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "architecture": "",
+        "generation": "",
+        "release_date": "",
+        "msrp": "",
+        "market_segment": "",
+        "chip_name": "",
+        "process_node": "",
+        "cuda_cores": "",
+        "stream_processors": "",
+        "compute_units": "",
+        "tensor_cores": "",
+        "rt_cores": "",
+        "vram": {
+            "capacity": "",
+            "type": "",
+            "bus_width": "",
+            "speed": ""
+        },
+        "clock_speeds": {
+            "base": "",
+            "boost": ""
+        },
+        "interface": "",
+        "power": {
+            "tdp": "",
+            "recommended_psu": ""
+        },
+        "connectors": [],
+        "display_outputs": [],
+        "ray_tracing": false,
+        "ai_features": [],
+        "upscaling_support": [],
+        "encoder_support": [],
+        "recommended_resolution": [],
+        "aib_models": [],
+        "benchmark_rating": "",
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

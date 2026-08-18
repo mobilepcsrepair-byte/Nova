@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        "document": "psus",
+        "version": "1.0.0",
+        "description": "Power supply units, electrical specifications, efficiency ratings, and compatibility.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "series": "",
+        "wattage": "",
+        "efficiency_rating": "",
+        "atx_version": "",
+        "form_factor": "",
+        "modular_type": "",
+        "dimensions": {},
+        "fan_size": "",
+        "fan_mode": "",
+        "rails": {},
+        "connectors": [],
+        "gpu_power_support": [],
+        "cpu_power_support": [],
+        "protection_features": [],
+        "warranty": "",
+        "release_date": "",
+        "recommended_use": [],
+        "notes": [],
+        "sources": []
+    },
+    "data": []
+}

@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        "document": "cases",
+        "version": "1.0.0",
+        "description": "PC cases, chassis specifications, compatibility, and features.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "name": "",
+        "manufacturer": "",
+        "category": "",
+        "form_factor": [],
+        "motherboard_support": [],
+        "dimensions": {
+            "height": "",
+            "width": "",
+            "depth": ""
+        },
+        "weight": "",
+        "materials": [],
+        "side_panel": "",
+        "gpu_clearance": "",
+        "cpu_cooler_clearance": "",
+        "radiator_support": [],
+        "fan_support": [],
+        "included_fans": [],
+        "drive_support": {
+            "2_5_inch": 0,
+            "3_5_inch": 0
+        },
+        "front_io": [],
+        "expansion_slots": 0,
+        "vertical_gpu_support": false,
+        "features": [],
+        "release_date": "",
+        "sources": []
+    },
+    "data": []
+}

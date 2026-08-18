@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "document": "naming_conventions",
+        "version": "1.0.0",
+        "description": "Explains hardware product naming systems and model number meanings.",
+        "schema_version": "1.0"
+    },
+    "format": {
+        "id": "",
+        "manufacturer": "",
+        "product_family": "",
+        "example_model": "",
+        "name_structure": "",
+        "breakdown": {},
+        "meaning": "",
+        "generation_indicator": "",
+        "performance_indicator": "",
+        "special_suffixes": {},
+        "common_mistakes": [],
+        "examples": [],
+        "sources": []
+    },
+    "data": []
+}

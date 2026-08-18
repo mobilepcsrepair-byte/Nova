@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NOVA — Hardware Knowledge Base</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <div>
+        <div class="brand">NOVA</div>
+        <div class="subtitle">Hardware Knowledge Base</div>
+      </div>
+      <div class="controls">
+        <button id="loadButton" type="button">Load Knowledge JSON</button>
+        <input id="fileInput" type="file" accept=".json,application/json" multiple hidden>
+      </div>
+    </header>
+
+    <section class="terminal" aria-label="NOVA terminal">
+      <pre id="output" class="output"></pre>
+      <div class="prompt-row">
+        <span class="prompt">&gt;</span>
+        <input id="command" class="command" type="text" autocomplete="off" spellcheck="false" autofocus>
+      </div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

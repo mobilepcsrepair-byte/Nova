@@ -1,0 +1,1670 @@
+{
+  "metadata": {
+    "document": "sources",
+    "version": "1.0.0",
+    "description": "Reference sources used to verify CoreBase hardware information.",
+    "schema_version": "1.0"
+  },
+  "format": {
+    "id": "",
+    "title": "",
+    "publisher": "",
+    "source_type": "",
+    "url": "",
+    "publication_date": "",
+    "access_date": "",
+    "related_components": [],
+    "reliability_rating": "",
+    "notes": []
+  },
+  "data": [
+    {
+      "id": "sources_001",
+      "title": "NVIDIA GeForce Graphics Cards",
+      "publisher": "NVIDIA",
+      "source_type": "Manufacturer",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Consumer GPU specifications and features."
+      ]
+    },
+    {
+      "id": "sources_002",
+      "title": "NVIDIA GeForce RTX 50 Series",
+      "publisher": "NVIDIA",
+      "source_type": "Manufacturer",
+      "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "NVIDIA RTX 50 Series"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Blackwell consumer GPU specifications."
+      ]
+    },
+    {
+      "id": "sources_003",
+      "title": "NVIDIA Data Center GPUs",
+      "publisher": "NVIDIA",
+      "source_type": "Manufacturer",
+      "url": "https://www.nvidia.com/en-us/data-center/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Data Center GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Accelerator and server GPU specifications."
+      ]
+    },
+    {
+      "id": "sources_004",
+      "title": "NVIDIA CUDA Documentation",
+      "publisher": "NVIDIA",
+      "source_type": "Technical documentation",
+      "url": "https://docs.nvidia.com/cuda/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CUDA, NVIDIA GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "CUDA programming and compute reference."
+      ]
+    },
+    {
+      "id": "sources_005",
+      "title": "AMD Radeon Graphics",
+      "publisher": "AMD",
+      "source_type": "Manufacturer",
+      "url": "https://www.amd.com/en/products/graphics",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD Radeon GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Radeon product specifications."
+      ]
+    },
+    {
+      "id": "sources_006",
+      "title": "AMD Ryzen Processors",
+      "publisher": "AMD",
+      "source_type": "Manufacturer",
+      "url": "https://www.amd.com/en/products/processors/desktops/ryzen.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD Ryzen CPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Desktop Ryzen specifications."
+      ]
+    },
+    {
+      "id": "sources_007",
+      "title": "AMD Ryzen Mobile Processors",
+      "publisher": "AMD",
+      "source_type": "Manufacturer",
+      "url": "https://www.amd.com/en/products/processors/laptop/ryzen.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD mobile CPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Laptop processor specifications."
+      ]
+    },
+    {
+      "id": "sources_008",
+      "title": "AMD EPYC Processors",
+      "publisher": "AMD",
+      "source_type": "Manufacturer",
+      "url": "https://www.amd.com/en/products/processors/server/epyc.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD EPYC"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Server processor specifications."
+      ]
+    },
+    {
+      "id": "sources_009",
+      "title": "AMD Instinct Accelerators",
+      "publisher": "AMD",
+      "source_type": "Manufacturer",
+      "url": "https://www.amd.com/en/products/accelerators/instinct",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD Instinct"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Data-center accelerator specifications."
+      ]
+    },
+    {
+      "id": "sources_010",
+      "title": "AMD Driver Downloads",
+      "publisher": "AMD",
+      "source_type": "Driver documentation",
+      "url": "https://www.amd.com/en/support/download/drivers.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Official driver reference."
+      ]
+    },
+    {
+      "id": "sources_011",
+      "title": "AMD Ryzen Master",
+      "publisher": "AMD",
+      "source_type": "Software documentation",
+      "url": "https://www.amd.com/en/technologies/ryzen-master",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "AMD Ryzen"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "CPU tuning utility reference."
+      ]
+    },
+    {
+      "id": "sources_012",
+      "title": "Intel Product Specifications",
+      "publisher": "Intel",
+      "source_type": "Technical database",
+      "url": "https://ark.intel.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel CPUs, GPUs, chipsets"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Detailed Intel product database."
+      ]
+    },
+    {
+      "id": "sources_013",
+      "title": "Intel Core Ultra Processors",
+      "publisher": "Intel",
+      "source_type": "Manufacturer",
+      "url": "https://www.intel.com/content/www/us/en/products/details/processors/core-ultra.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel Core Ultra"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "CPU specifications."
+      ]
+    },
+    {
+      "id": "sources_014",
+      "title": "Intel Xeon Processors",
+      "publisher": "Intel",
+      "source_type": "Manufacturer",
+      "url": "https://www.intel.com/content/www/us/en/products/details/processors/xeon.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel Xeon"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Server and workstation CPU specifications."
+      ]
+    },
+    {
+      "id": "sources_015",
+      "title": "Intel Arc Graphics",
+      "publisher": "Intel",
+      "source_type": "Manufacturer",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel Arc GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Discrete graphics specifications."
+      ]
+    },
+    {
+      "id": "sources_016",
+      "title": "Intel Driver & Support Assistant",
+      "publisher": "Intel",
+      "source_type": "Software documentation",
+      "url": "https://www.intel.com/content/www/us/en/support/detect.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel hardware"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Driver detection and update reference."
+      ]
+    },
+    {
+      "id": "sources_017",
+      "title": "Intel Extreme Tuning Utility",
+      "publisher": "Intel",
+      "source_type": "Software documentation",
+      "url": "https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Intel CPUs"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "CPU tuning utility."
+      ]
+    },
+    {
+      "id": "sources_018",
+      "title": "ASUS Motherboards",
+      "publisher": "ASUS",
+      "source_type": "Manufacturer",
+      "url": "https://www.asus.com/motherboards-components/motherboards/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASUS motherboards"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Motherboard specifications."
+      ]
+    },
+    {
+      "id": "sources_019",
+      "title": "ASUS Graphics Cards",
+      "publisher": "ASUS",
+      "source_type": "Manufacturer",
+      "url": "https://www.asus.com/motherboards-components/graphics-cards/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASUS GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Graphics card specifications."
+      ]
+    },
+    {
+      "id": "sources_020",
+      "title": "ASUS Laptops",
+      "publisher": "ASUS",
+      "source_type": "Manufacturer",
+      "url": "https://www.asus.com/laptops/for-gaming/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASUS laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_021",
+      "title": "ASUS Support",
+      "publisher": "ASUS",
+      "source_type": "Support documentation",
+      "url": "https://www.asus.com/support/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASUS hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Drivers, BIOS and manuals."
+      ]
+    },
+    {
+      "id": "sources_022",
+      "title": "MSI Motherboards",
+      "publisher": "MSI",
+      "source_type": "Manufacturer",
+      "url": "https://www.msi.com/Landing/motherboard",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "MSI motherboards"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Motherboard specifications."
+      ]
+    },
+    {
+      "id": "sources_023",
+      "title": "MSI Graphics Cards",
+      "publisher": "MSI",
+      "source_type": "Manufacturer",
+      "url": "https://www.msi.com/Graphics-Card",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "MSI GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Graphics card specifications."
+      ]
+    },
+    {
+      "id": "sources_024",
+      "title": "MSI Laptops",
+      "publisher": "MSI",
+      "source_type": "Manufacturer",
+      "url": "https://www.msi.com/Laptops",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "MSI laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_025",
+      "title": "MSI Support",
+      "publisher": "MSI",
+      "source_type": "Support documentation",
+      "url": "https://www.msi.com/support",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "MSI hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Drivers, BIOS and manuals."
+      ]
+    },
+    {
+      "id": "sources_026",
+      "title": "Gigabyte Motherboards",
+      "publisher": "Gigabyte",
+      "source_type": "Manufacturer",
+      "url": "https://www.gigabyte.com/Motherboard",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Gigabyte motherboards"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Motherboard specifications."
+      ]
+    },
+    {
+      "id": "sources_027",
+      "title": "Gigabyte Graphics Cards",
+      "publisher": "Gigabyte",
+      "source_type": "Manufacturer",
+      "url": "https://www.gigabyte.com/Graphics-Card",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Gigabyte GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Graphics card specifications."
+      ]
+    },
+    {
+      "id": "sources_028",
+      "title": "Gigabyte Laptops",
+      "publisher": "Gigabyte",
+      "source_type": "Manufacturer",
+      "url": "https://www.gigabyte.com/Laptop",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Gigabyte laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_029",
+      "title": "Gigabyte Support",
+      "publisher": "Gigabyte",
+      "source_type": "Support documentation",
+      "url": "https://www.gigabyte.com/Support",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Gigabyte hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Drivers, BIOS and manuals."
+      ]
+    },
+    {
+      "id": "sources_030",
+      "title": "ASRock Motherboards",
+      "publisher": "ASRock",
+      "source_type": "Manufacturer",
+      "url": "https://www.asrock.com/mb/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASRock motherboards"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Motherboard specifications."
+      ]
+    },
+    {
+      "id": "sources_031",
+      "title": "ASRock Support",
+      "publisher": "ASRock",
+      "source_type": "Support documentation",
+      "url": "https://www.asrock.com/support/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ASRock hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Drivers and BIOS reference."
+      ]
+    },
+    {
+      "id": "sources_032",
+      "title": "Lenovo ThinkPad",
+      "publisher": "Lenovo",
+      "source_type": "Manufacturer",
+      "url": "https://www.lenovo.com/us/en/c/laptops/thinkpad/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ThinkPad"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Business laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_033",
+      "title": "Lenovo Legion",
+      "publisher": "Lenovo",
+      "source_type": "Manufacturer",
+      "url": "https://www.lenovo.com/us/en/c/laptops/legion-laptops/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Legion"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Gaming laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_034",
+      "title": "Lenovo Workstations",
+      "publisher": "Lenovo",
+      "source_type": "Manufacturer",
+      "url": "https://www.lenovo.com/us/en/c/workstations/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Lenovo workstations"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Workstation specifications."
+      ]
+    },
+    {
+      "id": "sources_035",
+      "title": "Dell Laptops",
+      "publisher": "Dell",
+      "source_type": "Manufacturer",
+      "url": "https://www.dell.com/en-us/shop/dell-laptops-and-2-in-1-pcs/scr/laptops",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Dell laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_036",
+      "title": "Dell Precision",
+      "publisher": "Dell",
+      "source_type": "Manufacturer",
+      "url": "https://www.dell.com/en-us/shop/workstations-isv-certified/scr/workstations",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Dell Precision"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Workstation specifications."
+      ]
+    },
+    {
+      "id": "sources_037",
+      "title": "Dell PowerEdge",
+      "publisher": "Dell",
+      "source_type": "Manufacturer",
+      "url": "https://www.dell.com/en-us/shop/servers-storage-and-networking/sf/poweredge-servers",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "PowerEdge"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Server specifications."
+      ]
+    },
+    {
+      "id": "sources_038",
+      "title": "HP ZBook",
+      "publisher": "HP",
+      "source_type": "Manufacturer",
+      "url": "https://www.hp.com/us-en/workstations/zbook.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "HP ZBook"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Mobile workstation specifications."
+      ]
+    },
+    {
+      "id": "sources_039",
+      "title": "HP OMEN",
+      "publisher": "HP",
+      "source_type": "Manufacturer",
+      "url": "https://www.hp.com/us-en/gaming/omen.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "HP OMEN"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Gaming system specifications."
+      ]
+    },
+    {
+      "id": "sources_040",
+      "title": "HP Support",
+      "publisher": "HP",
+      "source_type": "Support documentation",
+      "url": "https://support.hp.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "HP hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Drivers, BIOS and manuals."
+      ]
+    },
+    {
+      "id": "sources_041",
+      "title": "Apple Mac",
+      "publisher": "Apple",
+      "source_type": "Manufacturer",
+      "url": "https://www.apple.com/mac/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Mac"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Current Mac hardware specifications."
+      ]
+    },
+    {
+      "id": "sources_042",
+      "title": "Apple Mac Technical Specifications",
+      "publisher": "Apple",
+      "source_type": "Technical documentation",
+      "url": "https://support.apple.com/specs/mac",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Mac"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Detailed Mac technical specifications."
+      ]
+    },
+    {
+      "id": "sources_043",
+      "title": "Microsoft Surface",
+      "publisher": "Microsoft",
+      "source_type": "Manufacturer",
+      "url": "https://www.microsoft.com/en-us/surface",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Surface"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Surface hardware specifications."
+      ]
+    },
+    {
+      "id": "sources_044",
+      "title": "Framework Laptop",
+      "publisher": "Framework",
+      "source_type": "Manufacturer",
+      "url": "https://frame.work/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Framework laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Modular laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_045",
+      "title": "Razer Blade",
+      "publisher": "Razer",
+      "source_type": "Manufacturer",
+      "url": "https://www.razer.com/gaming-laptops",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Razer laptops"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Gaming laptop specifications."
+      ]
+    },
+    {
+      "id": "sources_046",
+      "title": "Acer Predator",
+      "publisher": "Acer",
+      "source_type": "Manufacturer",
+      "url": "https://www.acer.com/us-en/predator",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Acer Predator"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Gaming hardware specifications."
+      ]
+    },
+    {
+      "id": "sources_047",
+      "title": "Corsair Memory",
+      "publisher": "Corsair",
+      "source_type": "Manufacturer",
+      "url": "https://www.corsair.com/us/en/c/memory",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Corsair RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_048",
+      "title": "G.SKILL",
+      "publisher": "G.SKILL",
+      "source_type": "Manufacturer",
+      "url": "https://www.gskill.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "G.SKILL RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_049",
+      "title": "Kingston Memory",
+      "publisher": "Kingston",
+      "source_type": "Manufacturer",
+      "url": "https://www.kingston.com/en/memory",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Kingston RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_050",
+      "title": "Crucial Memory",
+      "publisher": "Crucial",
+      "source_type": "Manufacturer",
+      "url": "https://www.crucial.com/memory",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Crucial RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_051",
+      "title": "TeamGroup Memory",
+      "publisher": "TeamGroup",
+      "source_type": "Manufacturer",
+      "url": "https://www.teamgroupinc.com/en/products/memory/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "TeamGroup RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_052",
+      "title": "ADATA Memory",
+      "publisher": "ADATA",
+      "source_type": "Manufacturer",
+      "url": "https://www.adata.com/en/consumer/category/memory/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "ADATA RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory specifications."
+      ]
+    },
+    {
+      "id": "sources_053",
+      "title": "Samsung Semiconductor Memory",
+      "publisher": "Samsung",
+      "source_type": "Manufacturer",
+      "url": "https://semiconductor.samsung.com/memory/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Samsung memory"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "DRAM and storage component information."
+      ]
+    },
+    {
+      "id": "sources_054",
+      "title": "SK hynix Memory",
+      "publisher": "SK hynix",
+      "source_type": "Manufacturer",
+      "url": "https://www.skhynix.com/eng/product/memory/memoryMain.do",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "SK hynix memory"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "DRAM information."
+      ]
+    },
+    {
+      "id": "sources_055",
+      "title": "Micron Memory",
+      "publisher": "Micron",
+      "source_type": "Manufacturer",
+      "url": "https://www.micron.com/products/memory",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Micron memory"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory component information."
+      ]
+    },
+    {
+      "id": "sources_056",
+      "title": "Samsung SSD",
+      "publisher": "Samsung",
+      "source_type": "Manufacturer",
+      "url": "https://www.samsung.com/us/memory-storage/solid-state-drives/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Samsung SSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "SSD specifications."
+      ]
+    },
+    {
+      "id": "sources_057",
+      "title": "Samsung 990 PRO",
+      "publisher": "Samsung",
+      "source_type": "Product documentation",
+      "url": "https://www.samsung.com/us/memory-storage/nvme-ssd/990-pro/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Samsung 990 PRO"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "PCIe 4.0 NVMe SSD reference."
+      ]
+    },
+    {
+      "id": "sources_058",
+      "title": "Samsung 9100 PRO",
+      "publisher": "Samsung",
+      "source_type": "Product documentation",
+      "url": "https://www.samsung.com/us/memory-storage/nvme-ssd/9100-pro-nvme-ssd-sku-mz-vap1t0b-am/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Samsung 9100 PRO"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "PCIe 5.0 NVMe SSD reference."
+      ]
+    },
+    {
+      "id": "sources_059",
+      "title": "Western Digital SSD",
+      "publisher": "Western Digital",
+      "source_type": "Manufacturer",
+      "url": "https://www.westerndigital.com/products/internal-drives/ssd",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "WD SSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "SSD specifications."
+      ]
+    },
+    {
+      "id": "sources_060",
+      "title": "Western Digital HDD",
+      "publisher": "Western Digital",
+      "source_type": "Manufacturer",
+      "url": "https://www.westerndigital.com/products/internal-drives/hdd",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "WD HDD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Hard drive specifications."
+      ]
+    },
+    {
+      "id": "sources_061",
+      "title": "Seagate HDD",
+      "publisher": "Seagate",
+      "source_type": "Manufacturer",
+      "url": "https://www.seagate.com/products/hard-drives/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Seagate HDD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Hard drive specifications."
+      ]
+    },
+    {
+      "id": "sources_062",
+      "title": "Seagate SSD",
+      "publisher": "Seagate",
+      "source_type": "Manufacturer",
+      "url": "https://www.seagate.com/products/ssd/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Seagate SSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "SSD specifications."
+      ]
+    },
+    {
+      "id": "sources_063",
+      "title": "Solidigm SSD",
+      "publisher": "Solidigm",
+      "source_type": "Manufacturer",
+      "url": "https://www.solidigm.com/products/client/consumer.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Solidigm SSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Client SSD specifications."
+      ]
+    },
+    {
+      "id": "sources_064",
+      "title": "KIOXIA SSD",
+      "publisher": "KIOXIA",
+      "source_type": "Manufacturer",
+      "url": "https://americas.kioxia.com/en-us/personal.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "KIOXIA SSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Client SSD specifications."
+      ]
+    },
+    {
+      "id": "sources_065",
+      "title": "SATA-IO",
+      "publisher": "SATA-IO",
+      "source_type": "Standards body",
+      "url": "https://sata-io.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "SATA"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Serial ATA standards."
+      ]
+    },
+    {
+      "id": "sources_066",
+      "title": "NVM Express Specifications",
+      "publisher": "NVM Express",
+      "source_type": "Standards body",
+      "url": "https://nvmexpress.org/specifications/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "NVMe"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "NVMe specifications."
+      ]
+    },
+    {
+      "id": "sources_067",
+      "title": "PCI-SIG Specifications",
+      "publisher": "PCI-SIG",
+      "source_type": "Standards body",
+      "url": "https://pcisig.com/specifications",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "PCI Express"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "PCIe specifications."
+      ]
+    },
+    {
+      "id": "sources_068",
+      "title": "USB-IF Documents",
+      "publisher": "USB Implementers Forum",
+      "source_type": "Standards body",
+      "url": "https://www.usb.org/documents",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "USB"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "USB specifications."
+      ]
+    },
+    {
+      "id": "sources_069",
+      "title": "HDMI Specifications",
+      "publisher": "HDMI Forum",
+      "source_type": "Standards body",
+      "url": "https://www.hdmi.org/spec/index",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "HDMI"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "HDMI specifications."
+      ]
+    },
+    {
+      "id": "sources_070",
+      "title": "VESA",
+      "publisher": "VESA",
+      "source_type": "Standards body",
+      "url": "https://www.vesa.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "DisplayPort"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Display interface standards."
+      ]
+    },
+    {
+      "id": "sources_071",
+      "title": "IEEE 802.3 Ethernet",
+      "publisher": "IEEE",
+      "source_type": "Standards body",
+      "url": "https://standards.ieee.org/standard/802_3-2022.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Ethernet"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Ethernet standards."
+      ]
+    },
+    {
+      "id": "sources_072",
+      "title": "IEEE 802.11 Wireless LAN",
+      "publisher": "IEEE",
+      "source_type": "Standards body",
+      "url": "https://standards.ieee.org/standard/802_11-2020.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Wi-Fi"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Wireless LAN standards."
+      ]
+    },
+    {
+      "id": "sources_073",
+      "title": "Bluetooth Core Specification",
+      "publisher": "Bluetooth SIG",
+      "source_type": "Standards body",
+      "url": "https://www.bluetooth.com/specifications/specs/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Bluetooth"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Bluetooth specifications."
+      ]
+    },
+    {
+      "id": "sources_074",
+      "title": "JEDEC Standards",
+      "publisher": "JEDEC",
+      "source_type": "Standards body",
+      "url": "https://www.jedec.org/standards-documents",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "RAM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Memory standards."
+      ]
+    },
+    {
+      "id": "sources_075",
+      "title": "Trusted Computing Group TPM",
+      "publisher": "Trusted Computing Group",
+      "source_type": "Standards body",
+      "url": "https://trustedcomputinggroup.org/work-groups/tpm/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "TPM"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Trusted Platform Module references."
+      ]
+    },
+    {
+      "id": "sources_076",
+      "title": "Microsoft Windows 11 Lifecycle",
+      "publisher": "Microsoft",
+      "source_type": "OS documentation",
+      "url": "https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Windows 11"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Support lifecycle information."
+      ]
+    },
+    {
+      "id": "sources_077",
+      "title": "Microsoft Windows Hardware Documentation",
+      "publisher": "Microsoft",
+      "source_type": "Hardware documentation",
+      "url": "https://learn.microsoft.com/en-us/windows-hardware/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Windows hardware"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Hardware compatibility and driver guidance."
+      ]
+    },
+    {
+      "id": "sources_078",
+      "title": "Linux Kernel Documentation",
+      "publisher": "Linux Kernel Project",
+      "source_type": "Technical documentation",
+      "url": "https://docs.kernel.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Linux hardware"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Kernel and driver documentation."
+      ]
+    },
+    {
+      "id": "sources_079",
+      "title": "Ubuntu Hardware Certification",
+      "publisher": "Canonical",
+      "source_type": "Hardware certification",
+      "url": "https://ubuntu.com/certified",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Ubuntu"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Certified hardware compatibility."
+      ]
+    },
+    {
+      "id": "sources_080",
+      "title": "Red Hat Hardware Certification",
+      "publisher": "Red Hat",
+      "source_type": "Hardware certification",
+      "url": "https://access.redhat.com/certified-hardware",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "RHEL"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Enterprise hardware certification."
+      ]
+    },
+    {
+      "id": "sources_081",
+      "title": "FreeBSD Handbook",
+      "publisher": "FreeBSD Project",
+      "source_type": "Technical documentation",
+      "url": "https://docs.freebsd.org/en/books/handbook/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "FreeBSD"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Operating system and hardware documentation."
+      ]
+    },
+    {
+      "id": "sources_082",
+      "title": "HWiNFO",
+      "publisher": "REALiX",
+      "source_type": "Software reference",
+      "url": "https://www.hwinfo.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Hardware monitoring"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Sensor and identification reference."
+      ]
+    },
+    {
+      "id": "sources_083",
+      "title": "GPU-Z",
+      "publisher": "TechPowerUp",
+      "source_type": "Software reference",
+      "url": "https://www.techpowerup.com/gpuz/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "GPUs"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "GPU identification reference."
+      ]
+    },
+    {
+      "id": "sources_084",
+      "title": "CPU-Z",
+      "publisher": "CPUID",
+      "source_type": "Software reference",
+      "url": "https://www.cpuid.com/softwares/cpu-z.html",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CPU, RAM, motherboard"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Platform identification reference."
+      ]
+    },
+    {
+      "id": "sources_085",
+      "title": "CrystalDiskInfo",
+      "publisher": "CrystalMark",
+      "source_type": "Software reference",
+      "url": "https://crystalmark.info/en/software/crystaldiskinfo/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Storage"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "SMART monitoring reference."
+      ]
+    },
+    {
+      "id": "sources_086",
+      "title": "MemTest86",
+      "publisher": "PassMark",
+      "source_type": "Software reference",
+      "url": "https://www.memtest86.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "RAM"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Memory diagnostics reference."
+      ]
+    },
+    {
+      "id": "sources_087",
+      "title": "3DMark",
+      "publisher": "UL Solutions",
+      "source_type": "Benchmark reference",
+      "url": "https://benchmarks.ul.com/3dmark",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CPU, GPU"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Performance benchmark reference."
+      ]
+    },
+    {
+      "id": "sources_088",
+      "title": "Cinebench",
+      "publisher": "Maxon",
+      "source_type": "Benchmark reference",
+      "url": "https://www.maxon.net/en/cinebench",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CPU, GPU"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Rendering benchmark reference."
+      ]
+    },
+    {
+      "id": "sources_089",
+      "title": "Blender Open Data",
+      "publisher": "Blender Foundation",
+      "source_type": "Benchmark database",
+      "url": "https://opendata.blender.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CPU, GPU"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Public benchmark results."
+      ]
+    },
+    {
+      "id": "sources_090",
+      "title": "Open Hardware Monitor",
+      "publisher": "Open Hardware Monitor Project",
+      "source_type": "Open-source project",
+      "url": "https://openhardwaremonitor.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Hardware monitoring"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Open-source sensor monitoring reference."
+      ]
+    },
+    {
+      "id": "sources_091",
+      "title": "OpenRGB",
+      "publisher": "OpenRGB Project",
+      "source_type": "Open-source project",
+      "url": "https://openrgb.org/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "RGB hardware"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Cross-vendor RGB control reference."
+      ]
+    },
+    {
+      "id": "sources_092",
+      "title": "Docker Documentation",
+      "publisher": "Docker",
+      "source_type": "Software documentation",
+      "url": "https://docs.docker.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Containers"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Container and hardware acceleration documentation."
+      ]
+    },
+    {
+      "id": "sources_093",
+      "title": "VirtualBox Documentation",
+      "publisher": "Oracle",
+      "source_type": "Software documentation",
+      "url": "https://www.virtualbox.org/wiki/Documentation",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Virtualization"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Virtual machine hardware reference."
+      ]
+    },
+    {
+      "id": "sources_094",
+      "title": "VMware Documentation",
+      "publisher": "Broadcom",
+      "source_type": "Software documentation",
+      "url": "https://techdocs.broadcom.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Virtualization"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Virtualization platform documentation."
+      ]
+    },
+    {
+      "id": "sources_095",
+      "title": "Microsoft Hyper-V Documentation",
+      "publisher": "Microsoft",
+      "source_type": "Software documentation",
+      "url": "https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Virtualization"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Hyper-V reference."
+      ]
+    },
+    {
+      "id": "sources_096",
+      "title": "TechPowerUp GPU Database",
+      "publisher": "TechPowerUp",
+      "source_type": "Technical database",
+      "url": "https://www.techpowerup.com/gpu-specs/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "GPUs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "Graphics hardware specification database."
+      ]
+    },
+    {
+      "id": "sources_097",
+      "title": "TechPowerUp SSD Database",
+      "publisher": "TechPowerUp",
+      "source_type": "Technical database",
+      "url": "https://www.techpowerup.com/ssd-specs/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "SSDs"
+      ],
+      "reliability_rating": "High",
+      "notes": [
+        "SSD specification database."
+      ]
+    },
+    {
+      "id": "sources_098",
+      "title": "Notebookcheck",
+      "publisher": "Notebookcheck",
+      "source_type": "Technical publication",
+      "url": "https://www.notebookcheck.net/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "Laptops"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Laptop specifications and testing."
+      ]
+    },
+    {
+      "id": "sources_099",
+      "title": "Tom’s Hardware",
+      "publisher": "Tom’s Hardware",
+      "source_type": "Technical publication",
+      "url": "https://www.tomshardware.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "PC hardware"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Hardware testing and analysis."
+      ]
+    },
+    {
+      "id": "sources_100",
+      "title": "AnandTech Archive",
+      "publisher": "AnandTech",
+      "source_type": "Technical publication",
+      "url": "https://www.anandtech.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "CPU, GPU, memory, storage"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Detailed technical analysis archive."
+      ]
+    },
+    {
+      "id": "sources_101",
+      "title": "Hardware Unboxed",
+      "publisher": "Hardware Unboxed",
+      "source_type": "Technical publication",
+      "url": "https://www.youtube.com/@Hardwareunboxed",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "GPUs, CPUs, monitors"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Independent hardware testing."
+      ]
+    },
+    {
+      "id": "sources_102",
+      "title": "Guru3D",
+      "publisher": "Guru3D",
+      "source_type": "Technical publication",
+      "url": "https://www.guru3d.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "GPUs, drivers"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "GPU and driver testing."
+      ]
+    },
+    {
+      "id": "sources_103",
+      "title": "TechSpot",
+      "publisher": "TechSpot",
+      "source_type": "Technical publication",
+      "url": "https://www.techspot.com/",
+      "publication_date": "",
+      "access_date": "2026-08-18",
+      "related_components": [
+        "PC hardware"
+      ],
+      "reliability_rating": "Medium-High",
+      "notes": [
+        "Hardware reviews and benchmarks."
+      ]
+    }
+  ]
+}
